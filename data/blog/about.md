@@ -73,7 +73,7 @@ import TabItem from '@theme/TabItem';
 
 
 :::tip
-我是平克小站的站长 —— pincman，一名生活在中国江南地区的88年老码农。
+我是lorilu-studioの博客的站长 —— pincman，一名生活在中国江南地区的88年老码农。
 我热爱生活，喜爱历史，爱看电影，尤爱昆曲，最爱写程序，梦想成为一名终生编码者
 :::
 
@@ -112,7 +112,7 @@ import TabItem from '@theme/TabItem';
 
 ### 🌘主页
 
- - 🌐 [平克小站](https://pincman.com)
+ - 🌐 [lorilu-studioの博客](https://pincman.com)
  - 🌐 [B站](https://space.bilibili.com/53679018)
  - 🌐 [知乎](https://www.zhihu.com/people/pincman)
  - 🌐 [掘金](https://juejin.cn/user/1046390798295816)

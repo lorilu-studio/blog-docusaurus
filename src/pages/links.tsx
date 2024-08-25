@@ -109,7 +109,7 @@ const Header: FC = () => (
 );
 export default () => (
     <Layout
-        title="全栈开发生态导航"
+        title="导航"
         description="一个比较全的编码者常用生态导航页"
         className={`tw-bg-[url(/images/pages/page-links-bg.svg)] ${$styles.links}`}
     >

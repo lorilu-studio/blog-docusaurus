@@ -24,24 +24,10 @@ export const Footer: FC<{ className?: string }> = ({ className }) => {
                 )}
                 <div className={clsx($styles.btn, $styles.themeby)}>
                     <span>Theme by</span>
-                    <a href="https://pincman.com/rowfish" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/rowfishjs/rowfish" target="_blank" rel="noreferrer">
                         rowfish
                     </a>
                 </div>
-                {!isNil(siteData.beian) && (
-                    <div className={clsx($styles.btn, $styles.beian)}>
-                        {/* <span>{siteData.beian.prefix}</span> */}
-                        <a
-                            href="https://beian.miit.gov.cn/"
-                            target="_blank"
-                            rel="noreferrer"
-                            style={{ letterSpacing: '0' }}
-                        >
-                            {siteData.beian.prefix}
-                            {siteData.beian.code}
-                        </a>
-                    </div>
-                )}
             </div>
         </footer>
     );

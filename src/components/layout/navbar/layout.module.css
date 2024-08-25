@@ -24,6 +24,7 @@
     .navbar__link:hover,
     .navbar__link--active {
         &::before {
+            /* font-weight: bolder; */
             background-color: var(--ifm-navbar-link-hover-color);
         }
     }

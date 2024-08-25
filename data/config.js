@@ -75,25 +75,25 @@ const navbarItems = [
         className: 'navicon links-icon',
     },
 
-    {
-        href: 'https://eleduck.com/',
-        label: '远程工作',
-        position: 'right',
-        className: 'navicon dianya-icon',
-    },
+    // {
+    //     href: 'https://eleduck.com/',
+    //     label: '远程工作',
+    //     position: 'right',
+    //     className: 'navicon dianya-icon',
+    // },
 ];
 module.exports = {
     site: {
-        title: '平克小站',
-        tagline: '最好的全栈开发学习网站',
-        url: 'https://pincman.com',
+        title: 'lorilu-studioの博客',
+        tagline: '日拱一卒, 功不唐捐。',
+        url: 'https://blog.youngfoyo.life',
         baseUrl: '/',
         onBrokenLinks: 'throw',
         onBrokenMarkdownLinks: 'warn',
         favicon: 'custom/favicon.ico',
-        organizationName: 'pincman', // Usually your GitHub org/user name.
+        organizationName: 'lorilu-studio', // Usually your GitHub org/user name.
         projectName: 'site', // Usually your repo name.
-        copyright: `${new Date().getFullYear()} Pincman`,
+        copyright: `${new Date().getFullYear()} lorilu-studio`,
         logo: {
             alt: 'avatar logo',
             src: 'custom/logo.png',

@@ -17,7 +17,7 @@ order: 0
 [react18-course]: /docs/courses/react18-practise
 [nestjs-course]: /docs/courses/nestjs-practise/
 
-[3R教室][classroom]是[平克小站][site]推出的一个旨在帮助大家快速掌握TS全栈开发技能，同时为同学们提供远程工作求职和远程外包接单指导的服务。帮助各位在失业或者高压低薪中苦苦挣扎走钢丝的Coder朋友以最快的速度找到远程工作或自由接单，实现生活与工作分离的梦想，目标是——**在自由轻松的环境中把钱给赚了**
+[3R教室][classroom]是[lorilu-studioの博客][site]推出的一个旨在帮助大家快速掌握TS全栈开发技能，同时为同学们提供远程工作求职和远程外包接单指导的服务。帮助各位在失业或者高压低薪中苦苦挣扎走钢丝的Coder朋友以最快的速度找到远程工作或自由接单，实现生活与工作分离的梦想，目标是——**在自由轻松的环境中把钱给赚了**
 
 [3R教室][classroom]的目标是 Remote Learn->Remote Work->Remote Order.
 

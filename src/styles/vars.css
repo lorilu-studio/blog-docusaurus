@@ -29,20 +29,20 @@
     --rf-dock-modal-z-index: calc(var(--rf-base-modal-z-index) + 100);
 
     /* 色系 */
-    --ifm-color-primary: #c0c239;
-    --ifm-color-primary-dark: #a0a130;
-    --ifm-color-primary-darker: #7c8122;
-    --ifm-color-primary-darkest: #5a7010;
-    --ifm-color-primary-light: #a5d742;
-    --ifm-color-primary-lighter: #b8e478;
-    --ifm-color-primary-lightest: #f1faca;
+    --ifm-color-primary: #14926e;
+    --ifm-color-primary-dark: #14926e;
+    --ifm-color-primary-darker: #14926e;
+    --ifm-color-primary-darkest: #14926e;
+    --ifm-color-primary-light: #14926e;
+    --ifm-color-primary-lighter: #14926e;
+    --ifm-color-primary-lightest: #cafae9;
     --ifm-background-color: rgb(228 246 204 / 20%) !important;
     --ifm-font-color-small: rgb(45 45 45);
     --ifm-font-color-base: rgb(25 25 25);
     --ifm-heading-color: rgb(20 20 20);
     --ifm-link-color: rgb(15 15 15);
     --ifm-link-hover-color: rgb(10 10 10);
-    --ifm-navbar-background-color: rgb(255 250 243 / 90%);
+    --ifm-navbar-background-color: rgb(235 238 234 / 90%);
     --ifm-dropdown-background-color: var(--ifm-navbar-background-color);
     --ifm-navbar-link-color: var(--ifm-link-color);
     --ifm-navbar-link-hover-color: var(--ifm-color-primary-darker);
@@ -53,10 +53,10 @@
     --ifm-menu-color-active: var(--ifm-navbar-link-hover-color);
     --ifm-card-background-color: var(--rf-panel-background-color);
     --ifm-color-warning-contrast-background: #fcf2e9;
-    --rf-panel-background-color: rgb(255 240 223 / 80%);
+    --rf-panel-background-color: rgb(221 220 219 / 80%);
     --rf-blog-background-color: rgb(255 247 237/ 30%);
-    --rf-doc-background-color: rgb(241 230 217 / 80%);
-    --rf-link-background-color: rgb(241 230 217 / 98%);
+    --rf-doc-background-color: rgb(202 202 202 / 80%);
+    --rf-link-background-color: rgb(202 202 202 / 98%);
     --rf-dock-background-color: rgb(216 213 209 / 50%);
     --rf-doc-main-bg-color: rgb(255 250 243 / 50%);
     --rf-dock-btn-color: rgb(42 44 42 / 80%);

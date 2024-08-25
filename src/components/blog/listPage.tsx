@@ -53,8 +53,9 @@ function BlogListPageContent(props: Props): JSX.Element {
     }, [items]);
     return (
         <BlogLayout sidebar={sidebar}>
-            {carousels.length > 0 && <Carousel data={carousels} />}
-            {bannerButtons.length > 0 && <BlogHomeBlocks data={bannerButtons} />}
+            {/* 隐藏轮播图和版块导航 */}
+            {/* {carousels.length > 0 && <Carousel data={carousels} />} */}
+            {/* {bannerButtons.length > 0 && <BlogHomeBlocks data={bannerButtons} />} */}
             <div className="tw-w-full tw-flex-auto">
                 <BlogPostItems
                     items={data.filter(({ content: BlogPostContent }) => {
