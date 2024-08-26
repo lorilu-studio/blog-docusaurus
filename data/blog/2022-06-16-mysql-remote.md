@@ -4,7 +4,7 @@ slug: mysql-remote-access
 
 title: Mysql远程连接
 
-authors: pincman
+authors: lorilu-studio
 
 tags: [mysql, mariadb,linux]
 

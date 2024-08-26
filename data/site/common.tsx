@@ -57,9 +57,9 @@ export const tips: TipItem[] = [
     //     closeTime: 3600 * 24,
     // },
     // {
-    //     id: 'classroom',
+    //     id: 'roadmap',
     //     content:
-    //         '加入<a href="/classroom">3R教室</a>开启你的全栈学习征程,增加远程工作求职机会,拓展接单渠道！',
+    //         '加入<a href="/roadmap">3R教室</a>开启你的全栈学习征程,增加远程工作求职机会,拓展接单渠道！',
     //     pages: ['blog'],
     //     color: 'info',
     //     closeTime: 3600 * 24,

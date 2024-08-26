@@ -4,7 +4,7 @@ slug: accesscontrol-usage
 
 title: accesscontrol使用指南
 
-authors: pincman
+authors: lorilu-studio
 
 tags: [accesscontrol,typescript,nestjs]
 

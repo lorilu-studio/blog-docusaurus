@@ -9,7 +9,7 @@ pagination_previous: null
 ---
 :::tip
 
-[点此](/classroom)了解3R教室,体验体系化TS全栈开发学习,并找到你的第一份远程工作！
+[点此](/roadmap)了解3R教室,体验体系化TS全栈开发学习,并找到你的第一份远程工作！
 
 :::
 

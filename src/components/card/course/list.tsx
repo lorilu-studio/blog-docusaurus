@@ -108,7 +108,7 @@ export const CourseCards: FC<{ data: CourseCardItemType[] }> = ({ data }) => (
                 <CourseCardItem key={i.toFixed()} course={course} i={i} />
             ))}
         </div>
-        <div className="tw-mt-5 tw-text-center tw-w-full">
+        {/* <div className="tw-mt-5 tw-text-center tw-w-full">
             <Link className="tw-ghostBtn" href="/about/#订阅小站" rel="noreferrer">
                 <span className="tw-ghost-icon">
                     <span className="xicon">
@@ -120,6 +120,6 @@ export const CourseCards: FC<{ data: CourseCardItemType[] }> = ({ data }) => (
                     <span className="tw-font-kaiti">(永久获取所有教程源码及享受问答服务)</span>
                 </span>
             </Link>
-        </div>
+        </div> */}
     </>
 );

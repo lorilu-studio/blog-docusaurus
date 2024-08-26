@@ -4,7 +4,7 @@ slug: mysql8-change-password
 
 title: mysql8更改密码注意事项
 
-authors: pincman
+authors: lorilu-studio
 
 tags: [mysql, msyql8,linux]
 

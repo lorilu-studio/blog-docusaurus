@@ -26,7 +26,7 @@ const navbarItems = [
     },
     {
         type: 'dropdown',
-        label: '教学',
+        label: '教程',
         position: 'right',
         className: 'navicon course-icon',
         items: [
@@ -37,14 +37,9 @@ const navbarItems = [
                 className: 'navicon video-icon',
             },
             {
-                to: '/classroom',
-                label: '3R教程',
+                to: '/roadmap',
+                label: '技术路线',
                 className: 'navicon room-icon',
-            },
-            {
-                to: '/about#订阅小站',
-                label: '订阅小站',
-                className: 'navicon subscribe-icon',
             },
         ],
     },

@@ -25,7 +25,7 @@ interface Props {
 export const MainExcerpt: FC<Props> = ({
     authors = [],
     date,
-    enableComment = true,
+    enableComment = false,
     formattedDate,
     isList = false,
     pathname,
